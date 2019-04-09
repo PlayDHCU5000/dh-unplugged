@@ -1,6 +1,6 @@
 # References & Further Reading
 
-Brilliant Knight, Kim. “Making Space: Feminist DH and a Room of One’s Own” Minimal Computing. Global Outlook::Digital Humanities. 18 February, 2017. https://go-dh.github.io/mincomp/thoughts/2017/02/18/knight-makingspace/
+Brilliant Knight, Kim. “Making Space: Feminist DH and a Room of One’s Own” Minimal Computing. Global Outlook::Digital Humanities. 18 February, 2017. [https://go-dh.github.io/mincomp/thoughts/2017/02/18/knight-makingspace/]
 
 Brown, Brené. "The Power of Vulnerability." https://www.ted.com/talks/brene_brown_on_vulnerability?language=en  
 
