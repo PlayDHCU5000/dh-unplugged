@@ -4,4 +4,6 @@ You have all been assembled as part of a think tank tasked to engage in creative
 
 [Game Rules Download](DH Unplugged Narrative and Rules.pdf)
 
+[Rules](rules.pdf)
+
 
