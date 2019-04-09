@@ -1,3 +1,3 @@
-[Game Rules Download](DH Narrative and Rules.pdf)
+[Game Rules Download](DH Unplugged Narrative and Rules.pdf)
 
 
