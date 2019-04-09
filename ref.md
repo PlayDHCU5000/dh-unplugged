@@ -4,9 +4,9 @@ Brilliant Knight, Kim. “Making Space: Feminist DH and a Room of One’s Own”
 
 Brown, Brené. "The Power of Vulnerability." https://www.ted.com/talks/brene_brown_on_vulnerability?language=en  
 
-Compton, Kate. 2014. ‘The Casual Creator’.http://www.casualcreator.com/blog/
+Compton, Kate. 2014. "The Casual Creator." http://www.casualcreator.com/blog/
 
-Fitzpatrick, Kathleen. Generous Thinking: A Radical Approach to Saving the University. Baltimore, MD: Johns Hopkins University Press, 2019  https://kfitz.info/generous-thinking-the-university-and-the-public-good/
+Fitzpatrick, Kathleen. "Generous Thinking: A Radical Approach to Saving the University." Baltimore, MD: Johns Hopkins University Press, 2019  https://kfitz.info/generous-thinking-the-university-and-the-public-good/
 
 Flanagan, Mary. “Creating Critical Play” Artists Re:Thinking Games. Eds Ruth Catlow, Marc   Garrett, and Corrado Morgana. Liverpool: Liverpool University Press, 2010, 49-53. https://maryflanagan.com/wp-content/uploads/CriticalPlay-ArtistsRethinkingGames-WithImages.rtf.pdf
 
