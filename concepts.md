@@ -2,7 +2,7 @@
 
 **Minimal Computing**
 
-The organization Global Outlook: Digital Humanities describes minimal computing as "computing work done under some set of significant constraints of hardware, software, education, network capacity, power, or other factors.” Whether constrained by choice or necessity, digital humanists in the field of minimal computing balance necessity and cost as it relates to how and why they compute, seeking methods which require minimal maintenance, minimal learning curves, minimal power use, and which generate minimal waste. In this way minimal computing promotes a hands-on, do-it-yourself approach to technology which interacts with discourses of environmentalism and accessibility. (http://go-dh.github.io/mincomp/about/)
+The organization Global Outlook: Digital Humanities describes minimal computing as "computing work done under some set of significant constraints of hardware, software, education, network capacity, power, or other factors.” Whether constrained by choice or necessity, digital humanists in the field of minimal computing balance necessity and cost as it relates to how and why they compute, seeking methods which require minimal maintenance, minimal learning curves, minimal power use, and which generate minimal waste. In this way minimal computing promotes a hands-on, do-it-yourself approach to technology which interacts with discourses of environmentalism and accessibility. [http://go-dh.github.io/mincomp/about/](http://go-dh.github.io/mincomp/about/)
 
 **Creativity**
 
@@ -26,7 +26,7 @@ We want to reform your relationship with failure, and show you that it can be a 
 
 **Accessibility** 
 
-The game was designed to foster communication using authentic, timely and real-world problems and solutions. “Accessibility exists when a user...can easily make use of a particular digital resource (which may be textual, auditory, visual or some combination) with their choice of technology...and can, as a result, cognitively process the information as it comes to them from that resource through that technology.”...It is also important to be mindful of the United Nations stipulations that any definition of accessibility is as much a logistical one, as it is one of social construction. (https://carletonu.pressbooks.pub/digh5000/) The language and coding has been audited by the supervising professor for accessibility.  Enjoy!
+The game was designed to foster communication using authentic, timely and real-world problems and solutions. “Accessibility exists when a user...can easily make use of a particular digital resource (which may be textual, auditory, visual or some combination) with their choice of technology...and can, as a result, cognitively process the information as it comes to them from that resource through that technology.”...It is also important to be mindful of the United Nations stipulations that any definition of accessibility is as much a logistical one, as it is one of social construction. [https://carletonu.pressbooks.pub/digh5000/](https://carletonu.pressbooks.pub/digh5000/). Enjoy!
 
 **Databases**		
 
