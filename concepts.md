@@ -14,7 +14,7 @@ Kathleen Fitzpatrick created the term Generous Thinking (GT) to describe a learn
 
 **Screwmeneutics**
 
-Stephen Ramsay created this term as an approach to engaging with the massive volume of knowledge and resources available to us. He invites us to let our intellect roam by browsing, starting with any resource and allowing our engagement with it to lead us to explore another resource and so on. There is value in “screwing around”! 
+Stephen Ramsay created this term as an approach to engaging with the massive volume of knowledge and resources available to us. He invites us to let our intellect roam by _browsing_, starting with any resource and allowing our engagement with it to lead us to explore another resource and so on. There is value in “screwing around”! 
 
 **Oblique Strategies**
 
