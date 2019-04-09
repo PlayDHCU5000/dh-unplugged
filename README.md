@@ -12,4 +12,4 @@ A collaborative deck-building and storytelling game addressing current issues th
 
 [References & Further Reading](ref.md)
 
-All icons used in our game have been sourced from the Noun Project: digitalized by priyanka, PaperAirplane by Emily Iles, tools by Scott Baker, and Art by Scribble.liners.
+All icons used in our game have been sourced from [The Noun Project](https://thenounproject.com/): digitalized by priyanka, PaperAirplane by Emily Iles, tools by Scott Baker, and Art by Scribble.liners.
