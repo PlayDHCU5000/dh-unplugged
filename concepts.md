@@ -26,7 +26,7 @@ We want to reform your relationship with failure, and show you that it can be a 
 
 **Accessibility** 
 
-The game was designed to foster communication using authentic, timely and real-world problems and solutions. “Accessibility exists when a user...can easily make use of a particular digital resource (which may be textual, auditory, visual or some combination) with their choice of technology...and can, as a result, cognitively process the information as it comes to them from that resource through that technology.”...It is also important to be mindful of the United Nations stipulations that any definition of accessibility is as much a logistical one, as it is one of social construction. [https://carletonu.pressbooks.pub/digh5000/](https://carletonu.pressbooks.pub/digh5000/). Enjoy!
+The game was designed to foster communication using authentic, timely and real-world problems and solutions. “Accessibility exists when a user...can easily make use of a particular digital resource (which may be textual, auditory, visual or some combination) with their choice of technology...and can, as a result, cognitively process the information as it comes to them from that resource through that technology.”...It is also important to be mindful of the United Nations stipulations that any definition of accessibility is as much a logistical one, as it is one of social construction. [https://carletonu.pressbooks.pub/digh5000/](https://carletonu.pressbooks.pub/digh5000/). 
 
 **Databases**		
 
